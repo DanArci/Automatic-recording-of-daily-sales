@@ -1,4 +1,4 @@
-def welcome():
+def welcome(): #<------This function shows a welcome message to the user
     print("")
     print("")
     print("")
