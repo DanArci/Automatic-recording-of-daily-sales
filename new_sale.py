@@ -18,6 +18,5 @@ def new_sale(): #<------This function registers a new sale and shows the subtota
     sale["price"] = request_number("Enter the price of the product: ", "float")
 
     #This line shows the subtotal to the user
-    print("Subtotal: ", sale["quantity"]*sale["price"])
-    print("Sale registered successfully✅.")
+    print("\nSubtotal: ", sale["quantity"]*sale["price"], "\n\nSale registered successfully✅.")
     sales.append(sale.copy()) #<------This line adds the sale to the list of sales
