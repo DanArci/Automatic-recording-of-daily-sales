@@ -5,7 +5,7 @@ from new_sale import new_sale
 from finish import finish
 from check_current_registration import check_current_registration
 
-#List declaration
+#List and tuples imports
 from new_sale import sales
 from new_sale import sale
 
