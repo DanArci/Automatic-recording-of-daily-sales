@@ -20,4 +20,4 @@ def new_sale(): #<------This function registers a new sale and shows the subtota
     #This line shows the subtotal to the user
     print("Subtotal: ", sale["quantity"]*sale["price"])
     print("Sale registered successfully✅.")
-    sales.append(sale) #<------This line adds the sale to the list of sales
+    sales.append(sale.copy()) #<------This line adds the sale to the list of sales
