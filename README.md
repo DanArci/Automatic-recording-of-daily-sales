@@ -1,7 +1,7 @@
 # Automatic Recording of Daily Sales
 
 ## Description
-This project is a Python program designed for small sales businesses. Its main function is to provide an intuitive user interface for recording sales transactions quickly and accurately. The system is designed to automate the payment process and minimize human error in inventory management.
+This project is an educational Python program created for [RIWI!](https://moodle.riwi.io). It is designed for small sales businesses, with the main function of providing users with an interface for recording sales transactions quickly and accurately. The system is designed to automate the payment process and minimize human error in inventory management.
 
 ## How it works
 1. The script starts by displaying a welcome message to the user.
@@ -11,3 +11,5 @@ This project is a Python program designed for small sales businesses. Its main f
 5. Finally, when the user exits, it displays a final summary of all sales made during the day.
    
 > **Current Status:** The program is currently running in a beta version (1.0), and we are actively testing its stability in a real-world business.
+
+![Riwi](https://moodle.riwi.io/pluginfile.php/1/theme_academi/logo/1773343892/Imagen1%20%281%29.png)
